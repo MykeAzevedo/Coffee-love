@@ -1,5 +1,5 @@
 ## 🔗 Link do Projeto
-👉 https://coffee-love-i295y0w9f-mykeazevedo.vercel.app
+👉(https://coffee-love.vercel.app/)
 
 # ☕ CoffeeLove - Landing Page
 
